@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Tiberius Gym Tank",
+        "tamanho": "L",
+        "cor": "Yellow",
+        "quantidade": 2
+    },
+
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "S",
+        "cor": "Purple",
+        "quantidade": 1
+    }
+]
